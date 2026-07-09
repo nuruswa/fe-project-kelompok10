@@ -39,3 +39,5 @@ Test update deploy kelompok 10
 
 ## Auto Deployment
 Project ini menggunakan Vercel sehingga setiap perubahan yang di-push ke branch main akan otomatis memicu proses deployment (auto deploy).
+#auto deploy
+
