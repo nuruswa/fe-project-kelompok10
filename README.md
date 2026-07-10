@@ -35,6 +35,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
+<<<<<<< HEAD
 Test update deploy kelompok 10
 
 ## Auto Deployment
@@ -42,3 +43,7 @@ Test update deploy kelompok 10
 Project ini menggunakan Vercel sehingga setiap perubahan yang di-push ke branch main akan otomatis memicu proses deployment (auto deploy).
 
 Test auto deploy berhasil.
+=======
+## Auto Deployment
+Project ini menggunakan Vercel sehingga setiap perubahan yang di-push ke branch main akan otomatis memicu proses deployment (auto deploy).
+>>>>>>> 6cbe2fe52c8742a772ad5e1ac40fa14aa81461c4
